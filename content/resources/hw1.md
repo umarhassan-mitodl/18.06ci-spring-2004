@@ -5,6 +5,8 @@ description: Problem set solutions are courtesy of Juha Valkama, a student in th
 file: /courses/18-06ci-linear-algebra-communications-intensive-spring-2004/ff7a12524d025c14a7a7010670661450_hw1.pdf
 file_size: 82359
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

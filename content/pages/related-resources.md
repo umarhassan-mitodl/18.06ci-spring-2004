@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: ''
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -11,8 +13,8 @@ video_metadata:
   youtube_id: null
 ---
 
-The Not so Short Introduction to LaTeX2e {{% resource_link "fc78f6f4-657f-4340-a53b-ef08a67bc656" "(PDF - 1.7MB)" %}}
+The Not so Short Introduction to LaTeX2e [(PDF - 1.7MB)](https://tobi.oetiker.ch/lshort/lshort.pdf)
 
-Essential LaTex++ ( {{% resource_link "4339da04-978e-4b20-b185-c82c429905c2" "PDF" %}})
+Essential LaTex++ ( [PDF](http://noodle.med.yale.edu/latex/essential.pdf))
 
-Using Imported Graphics in LaTeX2e ({{% resource_link "e4edbf70-9f5d-439a-9c8c-b3f62559214d" "PDF" %}})
+Using Imported Graphics in LaTeX2e ([PDF](http://www.ctan.org/tex-archive/info/epslatex.pdf))
