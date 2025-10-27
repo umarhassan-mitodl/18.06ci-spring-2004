@@ -4,8 +4,6 @@ description: Problem set.
 file: /courses/18-06ci-linear-algebra-communications-intensive-spring-2004/7ad9566dc40f172c811f9564adb499c0_al1.pdf
 file_size: 55896
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
